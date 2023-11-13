@@ -3,7 +3,7 @@ import java.util.List;
 public class Main {
 	
 	public static void main(String[] args) {
-		String[]toRun={"C","D"};
+		String[]toRun={"A","B"};
 		int startN = 40;
 		int stopN = 100;
 
